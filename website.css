@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+.g2wbutton{
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 18px;
+    background-color: white;
+    color: dodgerblue;
+    border-style: solid;
+    border-width: 2px;
+    border-color: dodgerblue;
+
+    transition: color .5s, background-color .5s;
+}
+
+.g2wbutton:hover{
+    color: white;
+    background-color: dodgerblue;
+}
