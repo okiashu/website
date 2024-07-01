@@ -16,7 +16,7 @@ body{
     border-color: dodgerblue;
     font-weight: 600;
 
-    transition: color .5s, background-color .5s;
+    transition: color .3s, background-color .3s;
 }
 
 .g2wbutton:hover{
